@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+energy_trading.db
+.vscode/
+app.py

@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    color: white;
+}
+
+.metric-card {
+    background-color: #1e293b;
+    padding: 20px;
+    border-radius: 20px;
+}
+.buy {
+    background-color: green;
+}
+
+.sell {
+    background-color: red;
+}
+
+.hold {
+    background-color: orange;
+}

@@ -1,0 +1,6 @@
+import os
+
+CITY = "Bhopal"
+DATABASE_NAME = "energy_trading.db"
+OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY")
+EIA_API_KEY = os.getenv("EIA_API_KEY")
