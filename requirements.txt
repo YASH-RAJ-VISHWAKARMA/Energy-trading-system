@@ -3,11 +3,8 @@ pandas
 numpy
 plotly
 requests
-xgboost
 scikit-learn
 prophet
-sqlalchemy
 joblib
-tensorflow
-keras
+tensorflow==2.16.1
 python-dotenv
