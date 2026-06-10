@@ -10,3 +10,4 @@ sqlalchemy
 joblib
 tensorflow
 keras
+python-dotenv
